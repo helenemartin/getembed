@@ -1,0 +1,66 @@
+/*----------------------------------------------------------------------------- 
+=MAIN STYLES  
+-----------------------------------------------------------------------------*/
+
+body {
+  font-family: 'EB Garamond', serif;
+
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  color: #333;
+ 
+
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  color: gray;
+ 
+}
+
+
+.banner img {
+	 width: 100%;
+}
+
+.carousel-inner .carousel-caption {
+
+    background-color: #525D72;
+    opacity: 0.5;
+    border-radius: 5px;
+}
+
+.marketing .row {
+	text-align: center;	
+}
+
+.navbar {
+	margin-bottom: 0; /* removes default excess margin */
+}
+
+.divider {
+  margin: 80px 0; 
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.companies h3 {
+	margin-bottom: 40px;
+}
+
+.companies img {
+	margin: 50px 0;
+}
+
+footer {
+	background: url('../images/grey-texture.jpg');
+	padding: 40px;
+}
